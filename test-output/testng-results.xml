@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40131" started-at="2015-10-07T19:52:22Z" finished-at="2015-10-07T19:53:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40131" started-at="2015-10-07T19:52:22Z" finished-at="2015-10-07T19:53:02Z">
+      <class name="Step1.tests">
+        <test-method status="PASS" signature="login_logout()[pri:0, instance:Step1.tests@42f30e0a]" name="login_logout" duration-ms="40080" started-at="2015-10-07T21:52:22Z" finished-at="2015-10-07T21:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_logout -->
+      </class> <!-- Step1.tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

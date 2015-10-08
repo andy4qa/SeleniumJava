@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Tests">
+
+    <test verbose="2" name="login_logout">
+        <classes>
+            <class name="org.selenium.step1.Tests">
+                <methods>
+                    <include name="login_logout" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+   
+
+</suite>
